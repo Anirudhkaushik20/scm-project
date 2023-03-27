@@ -116,3 +116,5 @@ elif w == 'd':
     print('------------------')
     print('| ITS A DRAW !!! |')
     print('------------------')
+        
+        #Result and memory to be added in future scope
