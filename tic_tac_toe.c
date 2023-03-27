@@ -25,7 +25,7 @@ intro = """
                                         
 
 
-
+#Tic_Tac_toe is the very realistic game
 
 →c means coloumns and the numbers          c→ 1   2   3
  1,2 and 3 reapresnts the 1st,2nd          r
